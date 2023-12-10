@@ -1,11 +1,10 @@
 ---
-title: 'Hello word, how are you'
+title: Example Blog
 description: This is a short description right here
 author: Beni
 date: '2023-12-10T23:38:50+01:00'
 tags:
   - post
-  - featured
 image: /assets/blog/titanic-float-none-css-meme.jpg
 imageAlt: Titanic meme
 ---
